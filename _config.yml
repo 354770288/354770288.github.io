@@ -3,17 +3,22 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
+title: Miugus-blog
+subtitle: '有内容的blog'
+description: '记录搞机日常的blog站点'
+keywords: 
+  - 记录搞机日常的blog站点
+  - vps
+  - liunx
+author: Miugus
+language:
+  - zh-CN
+  - en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://woaizm.com
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
